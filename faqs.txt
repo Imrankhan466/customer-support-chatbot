@@ -1,0 +1,43 @@
+MARKETING TEAM:
+1.Can I create personalized versions of collateral for different buyer personas?
+2.How do I ensure brand consistency across all our marketing collateral?
+3.Can I set up automated workflows for collateral updates and distribution?
+ SALES TEAM
+1.Can I create personalized sales decks or proposals for specific customers or 
+opportunities?
+2.Can I integrate the software with our CRM system for seamless access to collateral?
+3.How can I track which collateral pieces are being used and shared by my sales reps?
+ CORPORATE COMMUNICATION TEAM
+1.What permissions and access controls can I set up for different teams or user roles?
+2.Can I create customized templates for different types of collateral (e.g., presentations, 
+reports, fact sheets)?
+3.Does the software support multilingual content and localization?
+CREATIVE AGENCY AND DESIGN STUDIO
+1.Can I create custom approval workflows for client review and sign-off?
+2.How can I track and report on collateral usage and engagement metrics for clients?
+3.Does the software integrate with popular design tools or creative suites?
+PUBLISHER AND CONTENT CREATOR
+1.How does the software handle version control and revisions for my content?
+2.Does the software support collaboration and co-authoring?
+3.What analytics and reporting features are available for tracking content performance?
+RETAIL AND E-COMMERCE BUSINESS
+1.How do I ensure brand consistency across all my marketing and sales materials?
+2.How can I track and report on the usage and effectiveness of my marketing materials?
+3.Can I set up automated workflows for collateral updates and distribution?
+EDUCATIONAL INSTITUTION
+1.Can I create customized course packs or study materials for different programs or 
+classes?
+2.Can faculty and students collaborate on educational content within the software?
+3.How can I track and report on the usage and engagement of my educational materials?
+NON -PROFIT ORGANISATION
+1.How do I ensure brand consistency across all my organizational communications?
+2.Can I set up automated workflows for content approvals and distribution?
+3.Does the software support multilingual content and localization for reaching global 
+audiences?
+Health care
+1.Can I create personalized versions of medical content for different patient 
+demographics or conditions?
+2.Can healthcare providers collaborate on creating and reviewing medical content 
+within the software?
+3.Does the software support multimedia and interactive content for enhanced patient 
+education experiences?
